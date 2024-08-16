@@ -1,0 +1,125 @@
+button{
+    width:300px;
+    height: 100px;
+    font-weight: 700;
+    font-size: 20px;
+}
+.light {
+    background-color: white;
+}
+
+.dark {
+    background-color: black;
+}
+
+.red {
+    background-color: red;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.green {
+    background-color: green;
+}
+
+.orange {
+    background-color: orange;
+}
+
+.violet {
+    background-color: violet;
+}
+
+.indigo {
+    background-color: indigo;
+}
+
+.pink {
+    background-color: pink;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.cyan {
+    background-color: cyan;
+}
+
+.magenta {
+    background-color: magenta;
+}
+
+.lime {
+    background-color: lime;
+}
+
+.maroon {
+    background-color: maroon;
+}
+
+.navy {
+    background-color: navy;
+}
+
+.olive {
+    background-color: olive;
+}
+
+.teal {
+    background-color: teal;
+}
+
+.silver {
+    background-color: silver;
+}
+
+.gold {
+    background-color: gold;
+}
+
+.brown {
+    background-color: brown;
+}
+
+.aqua {
+    background-color: aqua;
+    color: white;
+}
+
+.turquoise {
+    background-color: turquoise;
+}
+
+.sienna {
+    background-color: sienna;
+}
+
+.khaki {
+    background-color: khaki;
+}
+.plum {
+    background-color: plum;
+}
+
+.crimson {
+    background-color: crimson;
+}
+
+.coral {
+    background-color: coral;
+}
+
+.salmon {
+    background-color: salmon;
+}
+
+.chocolate {
+    background-color: chocolate;
+}
+
+.peru {
+    background-color: peru;
+}
